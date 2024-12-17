@@ -66,3 +66,8 @@ h1{
     font-weight: bolder;
     
 }
+@media screen and (max-width: 330px){
+    h1{
+        transform: translateX(-1px);
+    }
+}

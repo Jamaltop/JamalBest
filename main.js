@@ -74,7 +74,7 @@ function calculate() {
     currentNumber = result.toString();
     previousNumber = null;
     operator = null;
-    shouldReset = true; // Устанавливаем флаг сброса
+    shouldReset = true; 
     updateDisplay();
 }
 
